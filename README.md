@@ -11,4 +11,4 @@
 
 ### However, the context of AT content and its biological significance may vary based on several factors like type of organism or species, presence of regulatory regions and others. 
 ## **More related to this:**
-### >>> Vinogradov, A.E., Anatskaya, O.V. DNA helix: the importance of being AT-rich. Mamm Genome 28, 455–464 (2017). https://doi.org/10.1007/s00335-017-9713-8
+### _>> Vinogradov, A.E., Anatskaya, O.V. DNA helix: the importance of being AT-rich. Mamm Genome 28, 455–464 (2017). https://doi.org/10.1007/s00335-017-9713-8_
