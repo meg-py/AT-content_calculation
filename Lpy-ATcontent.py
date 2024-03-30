@@ -1,6 +1,7 @@
 #ask for input dna sequence
-user_dna=input("Enter ur Dna seq- ")
-#calculating A,T amt
+user_dna=input("Enter your Dna seq- ")
+
+#calculating A,T amount using '.count()' method
 amt_A=user_dna.count("A")
 amt_T=user_dna.count("T")
 amt_total=len(user_dna)
